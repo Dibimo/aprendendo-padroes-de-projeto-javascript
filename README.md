@@ -12,6 +12,8 @@
 <br>
 Aprendendo Padrões de Projeto Javascript é liberado pela [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0.](http://creativecommons.org/licenses/by-nc-nd/3.0/) Está também disponível para compra via [O'Reilly](http://shop.oreilly.com/product/0636920025832.do) porém irá permanecer disponível gratuitamente online e como livro físico (ou digital) para compra de leitores que desejam apoiar o projeto.
 
+link para exemplos de código do proprio autor:
+https://patterns.addy.ie/
 
 # Prefácio
 
